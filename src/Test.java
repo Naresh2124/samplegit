@@ -1,10 +1,8 @@
 
 public class Test {
 
-	public static void main() {
-		
-
-		System.out.println("test3");
+	public void test2() {
+		System.out.println("test 2");
 	}
 
 }
